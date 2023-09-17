@@ -1,30 +1,32 @@
 Item,Price,Quantity,Store,Date,Category
-round crackers,$2.69 ,1,Target,9/9/2023 0:00,salty snack
-lindt truffles,$13.99 ,1,Target,9/9/2023 0:00,sweet snack
-broccoli,$3.29 ,1,Target,9/9/2023 0:00,produce
-plain greek yogurt,$1.29 ,1,World Fresh Market,9/11/2023 0:00,produce
-avocado,$0.98 ,1,World Fresh Market,9/11/2023 0:00,produce
-lime 0.35 lb,$0.52 ,1,World Fresh Market,9/11/2023 0:00,produce
-tortillas,$1.49 ,1,World Fresh Market,9/11/2023 0:00,bread
-cookie sleeve,$0.99 ,1,World Fresh Market,9/11/2023 0:00,sweet snack
-green grapes 2.25 lb bag,$6.73 ,1,World Fresh Market,9/11/2023 0:00,produce
-green leaf lettuce bunch,$0.99 ,1,World Fresh Market,9/11/2023 0:00,produce
-pint of tomatillos,$5.00 ,1,Glenwood Farmers Market,9/10/2023 0:00,produce
-tomatoes,$5.00 ,2,Glenwood Farmers Market,9/10/2023 0:00,produce
-pack of brownies,$12.00 ,1,Glenwood Farmers Market,9/10/2023 0:00,sweet snack
-cold brew drink,$9.00 ,1,Glenwood Farmers Market,9/10/2023 0:00,drink
-non-dairy chocolate ice cream,$3.49 ,1,Aldi,9/2/2023 0:00,sweet snack
-plant based meal pack,$2.99 ,4,Aldi,9/2/2023 0:00,quick meal
-smores dessert 2 pack,$4.99 ,1,Aldi,9/2/2023 0:00,sweet snack
-grapefruit seltzer,$0.99 ,1,Aldi,9/2/2023 0:00,drink
-prebiotic cola,$1.89 ,1,Aldi,9/2/2023 0:00,drink
-almond milk,$3.19 ,1,Aldi,9/2/2023 0:00,drink
-grass fed beef patties 4 pack,$4.99 ,1,Aldi,9/2/2023 0:00,meat
-frozen tilapia 8 pack,$8.19 ,1,Aldi,9/2/2023 0:00,meat
-quesadilla cheese shredded,$4.69 ,1,Aldi,9/2/2023 0:00,dairy
-brioche bun 8 pack,$3.99 ,1,Aldi,9/2/2023 0:00,bread
-corn chips,$2.49 ,1,Trader Joes,9/13/2023,salty snack
-harvest tea,$2.49 ,1,Trader Joes,9/13/2023,drink
-high fiber cereal,$2.99 ,1,Trader Joes,9/13/2023,quick meal
-pumpkin spice rooibos tea,$4.99 ,1,Trader Joes,9/13/2023,drink
-dark chocolate pb cups,$0.99 ,1,Trader Joes,9/13/2023,sweet snack
+round crackers,$2.69 ,1,Target,2023-09-09 00:00:00,salty snack
+lindt truffles,$13.99 ,1,Target,2023-09-09 00:00:00,sweet snack
+broccoli,$3.29 ,1,Target,2023-09-09 00:00:00,produce
+plain greek yogurt,$1.29 ,1,World Fresh Market,2023-09-11 00:00:00,produce
+avocado,$0.98 ,1,World Fresh Market,2023-09-11 00:00:00,produce
+lime 0.35 lb,$0.52 ,1,World Fresh Market,2023-09-11 00:00:00,produce
+tortillas,$1.49 ,1,World Fresh Market,2023-09-11 00:00:00,bread
+cookie sleeve,$0.99 ,1,World Fresh Market,2023-09-11 00:00:00,sweet snack
+green grapes 2.25 lb bag,$6.73 ,1,World Fresh Market,2023-09-11 00:00:00,produce
+green leaf lettuce bunch,$0.99 ,1,World Fresh Market,2023-09-11 00:00:00,produce
+pint of tomatillos,$5.00 ,1,Glenwood Farmers Market,2023-09-10 00:00:00,produce
+tomatoes,$5.00 ,2,Glenwood Farmers Market,2023-09-10 00:00:00,produce
+pack of brownies,$12.00 ,1,Glenwood Farmers Market,2023-09-10 00:00:00,sweet snack
+cold brew drink,$9.00 ,1,Glenwood Farmers Market,2023-09-10 00:00:00,drink
+non-dairy chocolate ice cream,$3.49 ,1,Aldi,2023-09-02 00:00:00,sweet snack
+plant based meal pack,$2.99 ,4,Aldi,2023-09-02 00:00:00,quick meal
+smores dessert 2 pack,$4.99 ,1,Aldi,2023-09-02 00:00:00,sweet snack
+grapefruit seltzer,$0.99 ,1,Aldi,2023-09-02 00:00:00,drink
+prebiotic cola,$1.89 ,1,Aldi,2023-09-02 00:00:00,drink
+almond milk,$3.19 ,1,Aldi,2023-09-02 00:00:00,drink
+grass fed beef patties 4 pack,$4.99 ,1,Aldi,2023-09-02 00:00:00,meat
+frozen tilapia 8 pack,$8.19 ,1,Aldi,2023-09-02 00:00:00,meat
+quesadilla cheese shredded,$4.69 ,1,Aldi,2023-09-02 00:00:00,dairy
+brioche bun 8 pack,$3.99 ,1,Aldi,2023-09-02 00:00:00,bread
+corn chips,$2.49 ,1,Trader Joes,2023-09-13 00:00:00,salty snack
+harvest tea,$2.49 ,1,Trader Joes,2023-09-13 00:00:00,drink
+high fiber cereal,$2.99 ,1,Trader Joes,2023-09-13 00:00:00,quick meal
+pumpkin spice rooibos tea,$4.99 ,1,Trader Joes,2023-09-13 00:00:00,drink
+dark chocolate pb cups,$0.99 ,1,Trader Joes,2023-09-13 00:00:00,sweet snack
+fig bars,$16.59,1,Costco,9/15/23,quick meal
+hoppy refresher 24 pk,$28.99,1,Costco,9/15/23,drink
